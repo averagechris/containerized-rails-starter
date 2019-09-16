@@ -15,4 +15,3 @@ How to setup a docker-compose based development environment for a new rails app
 - `docker-compose up`
 - `docker-compose run dev rake db:create`
 - That's it! `curl localhost:3000`
-- feel free to delete config/kube
